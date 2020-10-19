@@ -1,0 +1,14 @@
+.Product
+{
+    border-radius: 10px;
+    border: black solid;
+    border-width: thin;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.details
+{
+    font-size: 15px;
+}

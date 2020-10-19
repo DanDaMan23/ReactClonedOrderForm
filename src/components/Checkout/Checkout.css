@@ -1,0 +1,38 @@
+.Container
+{
+    border: black solid;
+    border-radius: 10px;
+    margin-top: 1rem;
+    padding: 1.3rem;
+}
+
+.Title
+{
+    border: black solid;
+    border-width: thin;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.Columns
+{
+    border: black solid;
+    border-width: thin;
+}
+
+.ColumnTitle
+{
+    border: black solid;
+    border-width: thin;
+    text-align: right;
+    font-weight: bold;
+}
+
+.Label
+{
+    border: black solid;
+    border-width: thin;
+    font-weight: bold;
+}

@@ -1,0 +1,50 @@
+.Cart 
+{
+    border: black solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    background-color: beige;
+}
+
+.EmptyCart
+{
+    height: 50px;
+}
+
+.RemoveButton
+{
+    float: right;
+}
+
+.NoItemsInCart
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 130px;
+    border: black solid;
+    border-width: thin;
+    border-radius: 10px;
+    background-color: lightgray;
+    color: gray;
+}
+
+.TotalPrice
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 130px;
+    border: black solid;
+    border-width: thin;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+    margin-top: 15px;
+}

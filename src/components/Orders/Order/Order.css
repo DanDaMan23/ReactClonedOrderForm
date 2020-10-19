@@ -1,0 +1,17 @@
+.ItemGroup
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 300px;
+}
+
+.Card
+{
+    margin-top: 10px;
+}
+
+.Button
+{
+    margin-top: 10px;
+}

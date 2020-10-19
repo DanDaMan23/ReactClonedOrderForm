@@ -1,0 +1,34 @@
+.CardType
+{
+    border: black solid;
+    padding: 1rem;
+    border-width: thin;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.CardInfo
+{
+    border: black solid;
+    padding: 1.4rem;
+    border-width: thin;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.ExpiryDate
+{
+    display: flex;
+}
+
+.ErrorMessage
+{
+    color: red;
+    /* margin-left: 150px; */
+}
+
+.ErrorCardMessage
+{
+    color: red;
+    margin-left: 11.5rem;
+}

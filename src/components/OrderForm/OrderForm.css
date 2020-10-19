@@ -1,0 +1,8 @@
+.OrderForm
+{
+    border: darkgray solid;
+    border-width: thin;
+    padding: 1.5rem;
+    border-radius: 4px;
+    box-shadow: 1.5px 1.5px 5px 1.5px darkgray;
+}
